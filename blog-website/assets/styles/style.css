@@ -1,0 +1,49 @@
+/* TAGS */
+a{
+    color: blue;
+    text-decoration: none;   
+}
+
+a:hover{
+    color: crimson;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    background-color: silver;
+}
+
+/* CLASSES */
+.button{
+    background-color: cadetblue;
+    padding: .5em .75em;
+    border: none;
+    border-radius: .25em;
+    color: white;
+}
+
+.button .hover{
+    background-color: crimson ;
+}
+.navbar{
+  border-bottom: 1px solid blue;  
+  padding: .5em;
+}
+
+.navbar .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-nav{
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.nav-item{
+    padding: .5em;
+    margin: 0 .5em;
+}
