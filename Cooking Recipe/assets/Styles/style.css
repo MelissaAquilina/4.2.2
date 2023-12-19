@@ -1,0 +1,42 @@
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#CF5C36;
+}
+
+body{
+    background-color: #81B29A;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+}
+
+
+.row{
+    background-color: #CF5C36;
+    margin-left: ;
+}
+.logo {
+    display: block;
+    height: 15rem;
+    margin: auto;
+}
+
+
+
+
+ footer{
+    background-color: #204E4A;
+    color:#F2F4F3;
+    font-size:.9rem;
+    margin-top: 4rem;
+    padding:1.11rem 0;
+  }
+
+  .container{
+    text-align: center;
+  }
+
+
